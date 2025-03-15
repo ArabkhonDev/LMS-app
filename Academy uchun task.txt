@@ -1,0 +1,9 @@
+Academy uchun task
+1. Oldidan ro'yxatdan o'tilgan bo'ladi,
+2. Admin, Teacher, Student, Client,
+3. Admin Crud xamasi ishlaydi, Teacher Student yaratadi, Grupa xam yaratadi va o'chiradi. Yangiliklarni yaratib, post joylaydi, Musoboqalar uchun post
+4. Teacher Grupalarni ko'ra oladi, Tasklarga javob bera oladi va ball qo'yadi. video joylashi yoki rasm joylashi mumkin.
+5. Student Grupasini ko'radi, Bajarilgan taskni natijasini ya'ni javobini ko'radi
+6. Client Yangiliklarni va ochiladigan guruxlar ro'yxatini va vaqtini ko'ra oladi, musoboqalar xaqida yangiliklar ko'radi
+7. Grupada o'quvchilar reytingi bo'ladi,  o'quvchilar va o'qtuvchi bo'ladi. xona nomi raqami, soat nechida ekanligi, qaysi oyda va nechanchi dars ekanligi
+8. Xona nomi, qavati, soat nechida qaysi grupa dars o'tishligi. Grupaga biriktirilgan o'qtuvchi va o'quvchilar ismi va raqami
