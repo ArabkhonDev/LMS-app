@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('title');
             $table->text('description')->nullable();
-            $table->foreignId('teacher_id')->constrained('users')->onDelete('cascade');
+            $table->foreignId('teacher_id')->default('2')->constrained('users')->onDelete('cascade');
             $table->boolean('is_published')->default(false);
             $table->unsignedInteger('duration')->nullable();
             $table->unsignedBigInteger('price')->nullable();
